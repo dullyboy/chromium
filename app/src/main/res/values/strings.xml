@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TvBrowser0728</string>
+    <string name="err">"此版本的Android系统不支持该功能。"</string>
+</resources>
